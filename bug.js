@@ -1,0 +1,1 @@
+This React component uses the wrong lifecycle method for updating the state based on props. It should use `componentDidUpdate` instead of `componentWillMount`.
